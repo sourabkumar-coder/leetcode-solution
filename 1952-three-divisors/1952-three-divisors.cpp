@@ -1,8 +1,8 @@
 class Solution {
 public:
     bool isThree(int n) {
-        int count=0;
-        for(int m=1;m<=n;m++){
+        int count=2;
+        for(int m=2;m<n;m++){
             if(n%m==0){
                 count++;
             }
