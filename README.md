@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0560-subarray-sum-equals-k](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
@@ -37,4 +38,12 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1952-three-divisors) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
