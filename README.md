@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
@@ -46,4 +47,5 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
