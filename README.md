@@ -48,4 +48,12 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0724-find-pivot-index) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
