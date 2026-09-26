@@ -8,14 +8,14 @@ public:
         }
         int left=0;
         for(int i=0;i<n;i++){
-            int right=sum-left-nums[i];
-            if(left==right){
+           int right=sum-nums[i]-left;
+            if(right==left){
                 return i;
             }
             left+=nums[i];
-        }
+
+            }
+            return -1;
     
-    return -1;
-   
     }
 };
