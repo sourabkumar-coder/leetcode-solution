@@ -56,4 +56,16 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
