@@ -25,7 +25,7 @@ public:
             else{
                 int idx=f[diff];
                 int len=i-idx;
-                res=max(res,len);
+                res=max(len,res);
             }
 
             
