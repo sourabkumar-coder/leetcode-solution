@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0525-contiguous-array](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0724-find-pivot-index) |
@@ -87,4 +88,12 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0918-maximum-sum-circular-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
