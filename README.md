@@ -14,6 +14,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,8 +93,13 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0056-merge-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
