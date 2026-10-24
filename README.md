@@ -25,6 +25,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -74,6 +75,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Stack
 |  |
@@ -107,9 +109,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0986-interval-list-intersections](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0986-interval-list-intersections) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
