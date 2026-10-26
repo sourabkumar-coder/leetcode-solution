@@ -76,17 +76,20 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Queue
 |  |
