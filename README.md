@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0057-insert-interval) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -143,4 +145,8 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
