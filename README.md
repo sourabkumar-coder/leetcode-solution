@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
@@ -83,6 +84,7 @@
 | [0014-longest-common-prefix](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -105,6 +107,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -161,4 +164,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0739-daily-temperatures) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sourabkumar-coder/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
