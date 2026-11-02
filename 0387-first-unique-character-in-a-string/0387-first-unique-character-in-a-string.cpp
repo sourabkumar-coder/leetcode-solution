@@ -8,8 +8,8 @@ public:
             f[s[i]]++;
         }
         for(i=0;i<n;i++){
-                if(f[s[i]]==1){
-                    return i;
+            if(f[s[i]]==1){
+                return i;
                 }
             }
         return -1;
